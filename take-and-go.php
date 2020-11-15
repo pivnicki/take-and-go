@@ -16,6 +16,7 @@
 
 defined( 'ABSPATH' ) or die( 'Skippy, plugin file cannot be accessed directly.' );
 include_once( plugin_dir_path( __FILE__ ) . 'updater.php');
+
 class TakeAndGo{
 
 	public function __construct(){
